@@ -7,15 +7,15 @@ My Java Spring Boot Full Stack Todo Web Application Project
 * Expose REST APIs and apply REST API Design Principles.
 
 ## Non-Functional Requirements
-* *The application must be able to do or possess the below attributes
-* *Maintainability
-* *Scalability
-* *Reliability
-* *Extensibility
-* *Secure
-* *Fast Performance
-* *Usability
-* *Reusability
+* The application must be able to do or possess the below attributes
+* Maintainability
+* Scalability
+* Reliability
+* Extensibility
+* Secure
+* Fast Performance
+* Usability
+* Reusability
 
 ## Technology Stack
 * Java 17
