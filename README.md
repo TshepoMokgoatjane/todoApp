@@ -2,7 +2,7 @@
 My Java Spring Boot Full Stack Todo Web Application Project
 
 ## Functional Requirement
-Build a Java Full Stack Web Application that allows you to do basic Todo Tasks.
+* Build a Java Full Stack Web Application that allows you to do basic Todo Tasks.
 This application will allow you to perform basic CRUD operations.
 Expose REST APIs and apply REST API Design Principles.
 
